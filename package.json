@@ -26,7 +26,8 @@
 				"extensions": [
 					".cg3",
 					".cg2",
-					".cg"
+					".cg",
+					".rlx"
 				],
 				"configuration": "./language-configuration.json"
 			}
